@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
-# name mohammed ibrahim mn
-# Date: 
+# Name : mohammed ibrahim mn
+# Date: 01/04/25
 # AIM
 To develop a website to display details about the places around my house.
 
